@@ -301,7 +301,3 @@ Possible future upgrades:
 - 📈 Detailed performance analytics
 
 ---
-
-## 📄 License
-
-Add the license you want to use for your repository (for example, MIT) before publishing the project as an open-source project.
